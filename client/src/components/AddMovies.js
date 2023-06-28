@@ -64,7 +64,7 @@ const AddMovie = () => {
             Add Your Movies
           </Typography>
           <InputLabel className={classes.font} sx={labelStyles}>
-            Title
+            Movie Name
           </InputLabel>
           <TextField
             className={classes.font}
@@ -75,7 +75,7 @@ const AddMovie = () => {
             variant="outlined"
           />
           <InputLabel className={classes.font} sx={labelStyles}>
-            Description
+            Movie Detail
           </InputLabel>
           <TextField
             className={classes.font}
@@ -87,7 +87,7 @@ const AddMovie = () => {
           />
           
           <InputLabel className={classes.font} sx={labelStyles}>
-            ImageURL
+            Movie ImageURL
           </InputLabel>
           <TextField
             className={classes.font}
