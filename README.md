@@ -5,7 +5,7 @@
 
 # activation of backend 
 
-##cd server
+## cd server
 ## npm install
 ## npm start
 
